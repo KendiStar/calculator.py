@@ -1,6 +1,6 @@
-This repository contains a simple Python calculator program for the week one assignment.
+This repository contains a simple Python calculator program. 
 
-Description
+DESCRIPTION;
 The pythonassign.py file implements a basic calculator that allows the user to perform the following operations:
 
 Add
@@ -8,7 +8,8 @@ Subtract
 Multiply
 Divide
 Exit
-Usage
+
+USAGE
 To run the calculator, execute the pythonassign.py script. The user will be prompted to select an operation and input two numbers for the calculation. The result of the operation will be displayed. The calculator will continue to run until the user selects the exit option.
 
 Example
@@ -25,10 +26,13 @@ Enter choice (1/2/3/4/5): 1
 Enter first number: 10
 Enter second number: 5
 Result: 10.0 + 5.0 = 15.0
-Error Handling
+
+ERROR HANDLING
 Invalid numeric input will prompt the user to re-enter valid numbers.
 Division by zero will display an error message.
-Requirements
+
+REQUIREMENTS
 Python 3.x
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
